@@ -2,7 +2,7 @@
 <br>
 🎓 Je suis actuellement étudiant à Télécom Paris dans le MS Intelligence Artificielle.  
 <br>
-&emsp;J'ai aussi un Diplôme d'ingénieur en specialité Big Data & IA à l'ESILV
+&emsp;&emsp;J'ai aussi un Diplôme d'ingénieur en specialité Big Data & IA à l'ESILV
 <br>
 <br>
 Vous trouverez ici les nombreux 📁 qui illustrent mes compétences en informatique, dont :
