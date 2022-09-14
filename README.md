@@ -6,13 +6,16 @@
 <br>
 Vous trouverez ici les nombreux 📁 qui illustrent mes compétences en informatique, dont :
 <br>
+<br>
 🚀  Les projets developpés sur mon temps libre : 
 <br>
 &emsp;&emsp;Comme HorusEyes, qui repère les avions sur des images satellite.
 <br>    
+<br>
 ♟️   Ceux que j'ai réalisés dans le cadre de mes études :  
 <br>
 &emsp;&emsp;Comme LightningStrike, le maitre AlphaBêta du Puissance 4
+<br>
 <br>
 🛠️  Quelques projets en liens avec mes réalisations professionnels :
 <br>
