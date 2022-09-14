@@ -23,4 +23,5 @@ Vous trouverez ici les nombreux 📁 qui illustrent mes compétences en informat
 &emsp;&emsp;&emsp;Comme Tacotron2, le ChatBot qui dit toujours ce qu'on veut entendre.
 <br>
 <br>
+<br>
 Vous pouvez facilement le deviner, je suis un grand fan des algorithmes d'apprentissage automatique.
