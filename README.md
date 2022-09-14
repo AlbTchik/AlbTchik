@@ -5,7 +5,7 @@
 &emsp;&emsp;J'ai aussi un Diplôme d'ingénieur en specialité Big Data & IA à l'ESILV
 <br>
 <br>
-Vous trouverez ici les nombreux 📁 qui illustrent mes compétences en informatique, dont :
+Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en informatique, dont :
 <br>
 <br>
 🚀  Les projets developpés sur mon temps libre : 
