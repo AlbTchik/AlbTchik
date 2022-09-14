@@ -1,6 +1,6 @@
 ### 🥳🎉✨  Bienvenue sur mon GitHub  ✨🎉🥳
 <br>
-🎓 Je suis actuellement étudiant à Télécom Paris dans le MS Intelligence Artificielle.  
+🎓 J'étudie actuellement à Télécom Paris dans le MS Intelligence Artificielle.  
 <br>
 &emsp;&emsp;J'ai aussi un Diplôme d'ingénieur en specialité Big Data & IA à l'ESILV
 <br>
