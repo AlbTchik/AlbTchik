@@ -24,4 +24,4 @@ Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en 
 <br>
 <br>
 <br>
-Vous pouvez facilement deviner que je suis un grand fan des algorithmes d'apprentissage automatique.
+Je suis un grand fan des algorithmes d'apprentissage automatique.
