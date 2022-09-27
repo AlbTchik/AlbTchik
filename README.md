@@ -10,7 +10,7 @@ Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en 
 <br>
 🚀  Les projets developpés sur mon temps libre : 
 <br>
-&emsp;&emsp;&emsp;Comme HorusEyes, qui repère les avions sur des images satellite.
+&emsp;&emsp;&emsp;Comme l'Oeil d'Horus, qui repère les avions sur des images satellite.
 <br>    
 <br>
 ♟️   Ceux que j'ai réalisés dans le cadre de mes études :  
