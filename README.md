@@ -18,7 +18,7 @@ Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en 
 &emsp;&emsp;&emsp;Comme LightningStrike, le maitre AlphaBêta du Puissance 4
 <br>
 <br>
-🛠️  Quelques projets en liens avec mes réalisations professionnels :
+🛠️  Quelques projets en liens avec mes réalisations professionnelles :
 <br>
 &emsp;&emsp;&emsp;Comme Tacotron2, le ChatBot qui dit toujours ce qu'on veut entendre.
 <br>
