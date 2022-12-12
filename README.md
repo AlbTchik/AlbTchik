@@ -23,4 +23,5 @@ Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en 
 &emsp;&emsp;&emsp;Comme Tacotron2, le ChatBot qui dit toujours ce que l'on veut entendre.  
 <br>
 <br>
-[![Alban's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbTchik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alban's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbTchik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
