@@ -24,4 +24,6 @@ Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en 
 <br>
 <br>
 
-[![Alban's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbTchik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+Mes languages des programmation : 
+
+[![Alban's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbTchik&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
