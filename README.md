@@ -27,3 +27,6 @@ Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en 
 Mes languages de programmation : 
 
 [![Alban's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbTchik&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+![Nb views](https://komarev.com/ghpvc/?username=AlbTchik&color=blueviolet)
+
