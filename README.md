@@ -30,5 +30,8 @@ Mes languages de programmation :
 
 <br>
 <br>
-![Nb views](https://komarev.com/ghpvc/?username=AlbTchik&color=blueviolet)
+
+![Nb views](https://komarev.com/ghpvc/?username=AlbTchik&color=blueviolet&label=Visiteurs)
+
+
 
