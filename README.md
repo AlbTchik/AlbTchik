@@ -30,7 +30,8 @@ Mes languages de programmation :
 problèmes de stat là c'est relou,  
 heureusement que mon cours est pas très interessant,  
 ça part sur l'instance vercel parce que leur repo est trop solicité !  
-comment c'est super long juste pour un petit truc...
+comment c'est super long juste pour un petit truc...  
+j'imagine que t'as fait ça aussi ;)
 <br>
 <br>
 
