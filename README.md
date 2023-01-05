@@ -27,7 +27,7 @@ Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en 
 Mes languages de programmation :  
 
 [![Alban's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbTchik&layout=compact&theme=tokyonight)](https://github.com/AlbTchik/github-readme-stats)  
-problèmes de stat là c'est relou
+problèmes de stat là c'est relou,  
 heureusement que mon cours est pas très interessant
 <br>
 <br>
