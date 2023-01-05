@@ -28,7 +28,9 @@ Mes languages de programmation :
 
 [![Alban's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbTchik&layout=compact&theme=tokyonight)](https://github.com/AlbTchik/github-readme-stats)  
 problèmes de stat là c'est relou,  
-heureusement que mon cours est pas très interessant
+heureusement que mon cours est pas très interessant,  
+ça part sur l'instance vercel !  
+mdrr comment c'est super long pour juste un petit truc
 <br>
 <br>
 
