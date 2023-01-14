@@ -1,8 +1,6 @@
 ### ✨  Bienvenue sur mon GitHub  ✨
 <br>
-🎓 J'étudie actuellement à Télécom Paris dans le MS Intelligence Artificielle où je perfectionne mes connaissances dans les algorithmes d'apprentissage automatique les plus récents.  
-<br>
-&emsp;&emsp;J'ai aussi un Diplôme d'ingénieur en specialité Big Data & IA à l'ESILV, qui m'as fourni des bases sur le sujet.
+🎓 J'étudie actuellement à Télécom Paris dans le MS Intelligence Artificielle où je perfectionne mes connaissances dans les algorithmes d'apprentissage automatique les plus récents. J'ai aussi un Diplôme d'ingénieur en specialité Big Data & IA à l'ESILV, qui m'as fourni des bases sur le sujet.  
 <br>
 <br>
 Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en informatique, dont :
