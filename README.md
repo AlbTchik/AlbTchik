@@ -13,7 +13,7 @@ Vous trouverez ici les nombreux répertoires qui illustrent mes compétences en 
 <br>
 ♟️   Ceux que j'ai réalisés dans le cadre de mes études :  
 <br>
-&emsp;&emsp;&emsp;Comme LightningStrike, le maitre AlphaBêta du Puissance 4
+&emsp;&emsp;&emsp;Comme le maitre AlphaBêta du Puissance 4
 <br>
 <br>
 🛠️  Quelques projets en liens avec mes réalisations professionnelles :
